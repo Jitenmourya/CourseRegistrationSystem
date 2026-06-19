@@ -1,0 +1,10 @@
+/* Basic styles for CourseRegistrationSystem frontend */
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card { box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
+.container .top-actions { margin-top: 16px; }
+.table-actions button { margin-right: 6px; }
+
+.search-box { max-width: 360px; }
+
+/* small helper spacing */
+.mb-8 { margin-bottom: 2rem; }
